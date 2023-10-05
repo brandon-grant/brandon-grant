@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey there, I'm Brandon! 👋
+
+I'm a software developer who loves to solve problems and build cool stuff. Whether it's a new app, a quick script, or a complex system, I'm always up for a challenge!
+
+- 💻 Currently working on multiple side projects
+- 📚 Always learning something new
+- 🏋️‍♂️ In my free time, you'll find me at the CrossFit gym 
+- 📫 Want to chat? My inbox is always open: me@brandongrant.dev
 
 <!--
 **brandon-grant/brandon-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
