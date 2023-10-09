@@ -4,7 +4,7 @@ I'm a software developer who loves to solve problems and build cool stuff. Wheth
 
 - 💻 Currently working on multiple side projects
 - 📚 Always learning something new
-- 🏋️‍♂️ In my free time, you'll find me at the CrossFit gym 
+- 🏋️‍♂️ In my free time, you'll find me hiking or at the CrossFit gym 
 - 📫 Want to chat? My inbox is always open: me@brandongrant.dev
 
 <!--
