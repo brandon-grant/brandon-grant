@@ -5,6 +5,7 @@ I'm a software developer who loves to solve problems and build cool stuff. Wheth
 - 💻 Currently working on multiple side projects
 - 📚 Always learning something new
 - 🏋️‍♂️ In my free time, you'll find me hiking or at the CrossFit gym 
+- ☕️ Interested in supporting my work? You can [buy me a coffee](https://www.buymeacoffee.com/brandong)
 - 📫 Want to chat? My inbox is always open: me@brandongrant.dev
 
 <!--
